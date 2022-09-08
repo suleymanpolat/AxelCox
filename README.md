@@ -9,7 +9,7 @@
 
 
 ### **A Brief Resume**  
-### <div align="center">Hi, I'm Süleyman, a passionate learner of Cloud Computing.
+# <div>Hi, I'm Süleyman 🙋🏻‍♂️
 
 I have 10 years experience in telecommunication industry as ICT Expert in National Regulatory Authority of Turkey (ICTA). As an ICT expert, I am responsible for providing with economic and technical assessment to enhance competitiveness among companies operating in broadband market, generating principles and procedures for market regulations and conducting inspections as a team leader whether companies are operating in compliance with these regulations. 
 
