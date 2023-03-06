@@ -13,10 +13,7 @@
 
 10 years experience in telecommunication industry as ICT Expert in Turkish National Regulatory Authority (ICTA). As an ICT expert, I was responsible for providing with economic and technical assessment to enhance competitiveness among companies operating in broadband market, generating principles and procedures for market regulations, increasing the effectiveness of incumbent operator in its operations with new regulations, and conducting inspections as a team leader whether companies are operating in compliance with these regulations or not. 
 
-Now as a passionate learner, I have successfully completed IT Fundamentals courses including Git, HTML, CSS, Linux, SQL, Basic Python and Computational Thinking. 
-  
-  
-Still I go on taking courses in the field of **AWS & DevOps**.</div>  
+Now I have been working as a freelance DevOps Engineer on micro-services applications fully automated and as a passionate learner. </div>  
   
 
 <br/>  
