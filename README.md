@@ -13,7 +13,7 @@
 
 10 years experience in telecommunication industry as ICT Expert in Turkish National Regulatory Authority (ICTA). As an ICT expert, I was responsible for providing with economic and technical assessment to enhance competitiveness among companies operating in broadband market, generating principles and procedures for market regulations, increasing the effectiveness of incumbent operator in its operations with new regulations, and conducting inspections as a team leader whether companies are operating in compliance with these regulations or not. 
 
-Now I have been working as a freelance DevOps Engineer on micro-services applications fully automated and as a passionate learner. </div>  
+I have been working as a freelance DevOps Engineer for a while, especially on fully automated microservices applications. It is very exciting and enjoyable to improve my skills in designing and building effective Continuous Integration and Delivery (CI/CD) pipelines using containerization and orchestration. I am very capable of using Terraform as infrastructure automation tool and and Ansible as configuration management tool and also able to use CloudFormation as AWS Infrastructure as Code (IaC). As a person who knows the importance of time management, I am used to utilizing Jira as a project management tool and expert in agile methodology as a project management method. As an highly adaptable and flexible DevOps engineer, I embrace teamwork but also like to work independently. </div>  
   
 
 <br/>  
